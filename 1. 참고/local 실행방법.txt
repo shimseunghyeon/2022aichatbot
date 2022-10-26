@@ -1,0 +1,5 @@
+local에서 실행하는 방법!
+
+cmd나 powershell 창에서...
+
+streamlit run _____.py 
